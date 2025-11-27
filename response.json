@@ -1,0 +1,1 @@
+{"statusCode": 200, "body": "{\"message\": \"Mock payment events inserted.\", \"table\": \"fintech-payments-dev-payments\", \"count\": 3, \"payment_ids\": [\"630eeb6d-e5cf-4cf3-97b2-3b332806f606\", \"0d678611-b469-40fa-96c4-5944e1a2a8ce\", \"a772fad3-91f1-4ec7-90dd-5f4d5797f606\"]}"}
