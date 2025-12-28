@@ -143,9 +143,3 @@ Approve. This removes:
 
 ---
 
-## Notes
-
-- No Terraform state files or `.tfvars` files should be committed to GitHub.  
-- `lambda.zip` must also be ignored.  
-- Use this repository as a portfolio demonstration of AWS event-pipeline fundamentals: IaC, Lambda packaging, DynamoDB integration, IAM role design, and reproducible infrastructure workflows.
-
